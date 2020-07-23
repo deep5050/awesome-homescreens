@@ -9,7 +9,7 @@
 # Categories
   * [3D](#3d)
   * [Abstract](#abstract)
-  * [B&W](#b&w)
+  * [B&W](#bnw)
   * [Funny](#funny)
   * [Girly](#girly)
   * [Minimal](#minimal)
@@ -24,7 +24,7 @@
 
 ## Abstract
 
-## B&W
+## BnW
 
 ## Funny
 
