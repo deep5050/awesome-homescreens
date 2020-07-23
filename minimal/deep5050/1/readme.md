@@ -1,13 +1,12 @@
 
 ![alt](./1.png)
 
-| Name  | [optional name]  |
+| Name  |   |
 |:-:|:-:|
 | Launcher  | Nova  |
-| Icon Pack  |no idea   |
+| Icon Pack  |  |
 |Widget Manager   |  |
 |  widget |  |
-| wallpaper  | |
-| Font  | |
-| wallpaper  |Wally app   |
+| wallpaper  | Wally app   |
+| Font  |
 |User Repo| https://github.com/deep5050 |
