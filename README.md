@@ -7,16 +7,17 @@
 
 
 # Categories
-1. [3D](##3D)
-2. [Abstract](##Abstract)
-3. [B&W](##B&W)
-4. [Funny](##Funny)
-5. [Girly](##Girly)
-6. [Minimal](##Minimal)
-7. [Patriotic](##Patriotic)
-8. [Sci-Fi](##Sci-Fi)
-9. [Sketch](##Sketch)
-10. [Other](##Other)
+  * [3D](#3d)
+  * [Abstract](#abstract)
+  * [B&W](#b&w)
+  * [Funny](#funny)
+  * [Girly](#girly)
+  * [Minimal](#minimal)
+  * [Patriotic](#patriotic)
+  * [Sci-Fi](#sci-fi)
+  * [Sketch](#sketch)
+  * [Other](#other)
+
 
 ## 3D
 
