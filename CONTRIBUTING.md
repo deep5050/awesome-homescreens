@@ -1,5 +1,5 @@
 **You should not upload:**
-- screenshots with any personal images as wallpaer.
+- screenshots with any personal images as wallpaper.
 - screenshots with any personal information visible.
 - Any text or images that harm any religions' believe.
 - Any harmful widget scripts.
@@ -18,18 +18,18 @@ The readme template is:
 
 | Name  | [optional name]  |
 |:-:|:-:|
-| Launcher  | *[launchername] |
+| Launcher  | *[launcher name] |
 | Icon Pack  |*[Icon pack app]   |
-|Widget Manager   | [widget manaer app name]  |
+|Widget Manager   | [widget manager app name]  |
 |  widget | [custom widget app/ scripts]  |
-| wallpaer  |[wallpaper app/ upload a wallpaer/a permenent link]   |
+| wallpaper  |[wallpaper app/ upload a wallpaper/a permanent link]   |
 | Font  |[Font name/ upload a font]   |
-| wallpaer  |[wallpaper app/ upload a wallpaer/a permenent link]   |
-|User Repo| [[your github repo link]|
+| wallpaper  |[wallpaper app/ upload a wallpaper/a permanent link]   |
+|User Repo| https://github.com/username|
 
 ```
-- If you have multiple setup to upload, create subdirectories as `non-decresing number` under your `username` directory. example: `deep5050/1` , `deep5050/2`
+- If you have multiple setup to upload, create subdirectories as `non-decreasing number` under your `username` directory. example: `deep5050/1` , `deep5050/2`
 - Finally do an entry in the root `readme.md`. **Maintain alphabetical order**
 
 
-** HAPPY CONTRINUTING :)**
+** HAPPY CONTRIBUTING :) **
