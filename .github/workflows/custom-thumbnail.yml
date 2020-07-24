@@ -11,7 +11,7 @@ jobs:
         uses: deep5050/custom-thumbnail@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN}}
-          inplace: True
+          inplace: False
       - name: Commit & Push changes
         uses: mikeal/publish-to-github-action@master
         env:
