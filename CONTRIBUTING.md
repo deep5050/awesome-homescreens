@@ -34,7 +34,7 @@ The readme template is:
 ```
   <details>
     <summary>[USER NAME] </summary>
-    <p align=center><a href="./path/to/target directory"><img src="./path/to/screenshot directory" height=400px width=225px></a></p>
+    <p align=center><a href="./path/to/target directory"><img src="./path/to/screenshot directory" height=25% width=25%></a></p>
 
   </details>
 ```
