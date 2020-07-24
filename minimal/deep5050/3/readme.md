@@ -1,6 +1,6 @@
-![3](./3.jpg)
 
-| Name  | niagara fall |
+
+| Name  | ![3](./3.jpg) |
 |:-:|:-:|
 | Launcher   | Niagara |
 | Icon Pack  |Crayon |
