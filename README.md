@@ -1,4 +1,4 @@
-<p align=center><h2 align=center>Awesome-Homescreen</h2></p>
+<p align=center><h2 align=center>Awesome-Homescreens</h2></p>
 
 <p align=center><img src="./default.jpg" height=30% width=30%></p>
 
