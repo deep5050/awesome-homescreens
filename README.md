@@ -1,6 +1,6 @@
 <p align=center><h2 align=center>Awesome-Homescreen</h2></p>
 
-<p align=center><img src="./default.jpg" height=400px width=225px></p>
+<p align=center><img src="./default.jpg" height=25% width=25%></p>
 
 <p align=center>A curated list of community-shared beautiful android homescreen setups </p>
 <p align=center><b>Share your screenshots now!</b></p>
@@ -35,9 +35,9 @@
 
   <details>
     <summary>deep5050</summary>
-    <p align=center><a href="./minimal/deep5050/1"><img src="./minimal/deep5050/1/1.png" height=400px width=225px></a></p>
-<p align=center><a href="./minimal/deep5050/2"><img src="./minimal/deep5050/2/2.png" height=400px width=225px></a></p>
-<p align=center><a href="./minimal/deep5050/3"><img src="./minimal/deep5050/3/3.jpg" height=400px width=225px></a></p>
+    <p align=center><a href="./minimal/deep5050/1"><img src="./minimal/deep5050/1/1.png" height=25% width=25%></a></p>
+<p align=center><a href="./minimal/deep5050/2"><img src="./minimal/deep5050/2/2.png" height=25% width=25%></a></p>
+<p align=center><a href="./minimal/deep5050/3"><img src="./minimal/deep5050/3/3.jpg" height=25% width=25%></a></p>
   </details>
 
 
