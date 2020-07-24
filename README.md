@@ -1,6 +1,6 @@
 <p align=center><h2 align=center>Awesome-Homescreen</h2></p>
 
-<p align=center><img src="./default.jpg" height=25% width=25%></p>
+<p align=center><img src="./default.jpg" height=30% width=30%></p>
 
 <p align=center>A curated list of community-shared beautiful android homescreen setups </p>
 <p align=center><b>Share your screenshots now!</b></p>
