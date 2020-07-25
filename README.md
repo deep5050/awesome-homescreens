@@ -1,6 +1,6 @@
 <p align=center><h2 align=center>Awesome-Homescreens</h2></p>
 
-<p align=center><img src="./default.jpg" height=400px width=225px></p>
+<p align=center><img src="./default.jpg"></p>
 
 <p align=center> <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></p>
 
@@ -47,7 +47,7 @@
 
   <details>
     <summary>deep5050</summary>
-    <p align=center><a href="./modern/deep5050/1"><img src="./modern/deep5050/1/1.jpg" height=25% width=25%></a></p>
+    <p align=center><a href="./modern/deep5050/1"><img src="./modern/deep5050/1/1.jpg"></a></p>
   </details>
   
 ## Patriotic
@@ -55,7 +55,7 @@
 
   <details>
     <summary>deep5050</summary>
-    <p align=center><a href="./patriotic/deep5050/1"><img src="./patriotic/deep5050/1/1.png" height=25% width=25% ></a></p>
+    <p align=center><a href="./patriotic/deep5050/1"><img src="./patriotic/deep5050/1/1.png"  ></a></p>
 
   </details>
 
