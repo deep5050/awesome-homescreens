@@ -1,6 +1,6 @@
 
 
-| Name  | ![3](./3.jpg) |
+| Screen  | ![3](./3.jpg) |
 |:-:|:-:|
 | Launcher   | Niagara |
 | Icon Pack  |Crayon |

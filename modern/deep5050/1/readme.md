@@ -1,7 +1,5 @@
 
-![alt](./1.jpg)
-
-| Name  | neumorphic  |
+| Screen  | ![alt](./1.jpg)  |
 |:-:|:-:|
 | Launcher  | POCO Launcher |
 | Icon Pack  | Appstract Icon pack   |

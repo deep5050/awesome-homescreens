@@ -1,10 +1,9 @@
-.
 
 
-| Screen  | ![4](./4.jpg) |
+| Screen  | ![1](./1.jpg) |
 |:-:|:-:|
-| Launcher   | POCO |
-| Icon Pack  |Appstarct |
+| Launcher   | Nova |
+| Icon Pack  |Glim |
 | Widget Manager   |   |
 |  widget | |
 | wallpaper  |  |

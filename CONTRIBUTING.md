@@ -17,13 +17,13 @@ The readme template is:
 
 
 
-|      screen      |                    ![alt](./path/to/your/screenshot) |
+|      Screen      |                    ![alt](./path/to/your/screenshot) |
 |       :-:        |                                :-:                   |
 |    Launcher      |            [launcher name *( mandatory) ]            |
 |     Icon Pack    |                [Icon pack app *( mandatory) ]        |
 |  Widget Manager  |                           [widget manager app name]  |
-|      widget      |                        [custom widget app/ scripts]  |
-|     wallpaper    | [wallpaper app/upload a wallpaper/a permanent link]  |
+|      Widget      |                        [custom widget app/ scripts]  |
+|     Wallpaper    | [wallpaper app/upload a wallpaper/a permanent link]  |
 |     Font         |                       [Font name / upload a font ]   |
 |    User Repo     |                          https://github.com/username |
 
