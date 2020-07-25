@@ -6,6 +6,7 @@
 
 <p align=center>A list of community-shared beautiful android homescreen setups </p>
 <p align=center><b>Share your screenshots now!</b></p>
+<p align=center><b>Read contributing.md file for more details</b></p>
 
 
 # Categories
