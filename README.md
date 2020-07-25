@@ -37,9 +37,9 @@
 
   <details>
     <summary>deep5050</summary>
-    <p align=center><a href="./minimal/deep5050/1"><img src="./minimal/deep5050/1/1.png" height=25% width=25%></a></p>
-<p align=center><a href="./minimal/deep5050/2"><img src="./minimal/deep5050/2/2.png" height=25% width=25%></a></p>
-<p align=center><a href="./minimal/deep5050/3"><img src="./minimal/deep5050/3/3.jpg" height=25% width=25%></a></p>
+    <p align=center><a href="./minimal/deep5050/1"><img src="./minimal/deep5050/1/1.png" ></a></p>
+<p align=center><a href="./minimal/deep5050/2"><img src="./minimal/deep5050/2/2.png" ></a></p>
+<p align=center><a href="./minimal/deep5050/3"><img src="./minimal/deep5050/3/3.jpg"></a></p>
   </details>
 
 
