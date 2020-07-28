@@ -4,6 +4,9 @@
 
 <p align=center> <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></p>
 
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=deep5050.awesome-homescreens" alt="Visitors">                     
+</p>
 <p align=center>A list of community-shared beautiful android homescreen setups </p>
 <p align=center><b>Share your screenshots now!</b></p>
 <p align=center><b>Read contributing.md file for more details</b></p>
